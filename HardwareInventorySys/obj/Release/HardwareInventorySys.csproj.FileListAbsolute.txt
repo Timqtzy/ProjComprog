@@ -1,0 +1,16 @@
+C:\Users\jante\source\repos\HardwareInventorySys\bin\Release\HardwareInventorySys.exe.config
+C:\Users\jante\source\repos\HardwareInventorySys\bin\Release\HardwareInventorySys.exe
+C:\Users\jante\source\repos\HardwareInventorySys\bin\Release\HardwareInventorySys.pdb
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.csproj.AssemblyReference.cache
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.Pages.CategoryForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.DashboardForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.LoadingScreen.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.LogInForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.MainForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.ProductForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.Pages.SalesReportForm.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.Properties.Resources.resources
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.csproj.GenerateResource.cache
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.csproj.CoreCompileInputs.cache
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.exe
+C:\Users\jante\source\repos\HardwareInventorySys\obj\Release\HardwareInventorySys.pdb
